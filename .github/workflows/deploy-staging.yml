@@ -9,8 +9,8 @@ env:
   ###############################################
   ### Replace <username> with GitHub username ###
   ###############################################
-  DOCKER_IMAGE_NAME: t-black-azure-ttt
-  AZURE_WEBAPP_NAME: t-black-ttt-app
+  DOCKER_IMAGE_NAME: tdblackston0-azure-ttt
+  AZURE_WEBAPP_NAME: tdblackston0-ttt-app
   ###############################################
 
 jobs:
